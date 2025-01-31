@@ -1,16 +1,30 @@
-## Hi there 👋
+## 🛠️ Skill
 
-<!--
-**jsy6079/jsy6079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend  
+- **React**  
 
-Here are some ideas to get you started:
+### Backend  
+- **Spring Boot**, JPA, MyBatis  
+- **Spring Security**, JWT  
+- **PostgreSQL**, MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DevOps & Tools  
+- GitHub, AWS (EC2, RDS)  
+
+---
+
+## 📝 Project  
+
+📌 **GPS + AP 기반 지오펜싱 앱 개발** – Spring Boot, Android Studio, React Native, MySQL  
+
+📌 **제물포 스마트시티 Station-J** – Spring Boot, React, PostgreSQL  
+
+📌 **그린컴퓨터 아카데미 Station-J 팀 프로젝트** – Spring Boot, React, PostgreSQL  
+&emsp;&emsp;➡️ [🔗 그린컴퓨터 아카데미 팀 프로젝트](https://github.com/jsy6079/Green2Team)
+
+
+---
+
+## 📫 Contact  
+- GitHub: [github.com/jsy6079](https://github.com/jsy6079)  
+- Email: **jsy6079@naver.com**  
