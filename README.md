@@ -9,7 +9,7 @@
 - **PostgreSQL**, MySQL  
 
 ### DevOps & Tools  
-- GitHub, AWS (EC2, RDS)  
+- GitHub, AWS (EC2, RDS, S3)  
 
 ---
 
@@ -18,6 +18,9 @@
 📌 **제물포 스마트시티 Station-J** – Spring Boot, React, PostgreSQL  
 
 📌 **GPS + AP 기반 지오펜싱 앱 개발** – Spring Boot, Android Studio, React Native, MySQL  
+
+📌 **개인 프로젝트 | MOA : 모두의 아이템** – Spring Boot, React, MySQL  
+&emsp;&emsp;➡️ [🔗 개인 프로젝트 MOA](https://github.com/jsy6079/project_shop)
 
 📌 **게임 OpenAPI 기반 웹 개발** – Spring Boot, React, MySQL  
 
