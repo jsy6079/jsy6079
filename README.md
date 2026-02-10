@@ -1,15 +1,15 @@
 ## 🛠️ Skill
 
 ### Frontend  
-- **React**  
+- **React**, **Next.js**
 
 ### Backend  
 - **Spring Boot**, JPA, MyBatis  
 - **Spring Security**, JWT  
-- **PostgreSQL**, MySQL  
+- **PostgreSQL**, MySQL, Oracle
 
 ### DevOps & Tools  
-- GitHub, AWS (EC2, RDS, S3)  
+- GitHub, AWS (EC2, RDS, S3), PM2
 
 ---
 
