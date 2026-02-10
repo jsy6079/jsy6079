@@ -23,6 +23,8 @@
 
 📌 **HRMS 고도화 및 시스템 유지보수** – Next.js, Spring Boot, Oracle, MyBatis,CKEditor,PM2
 
+📌 **제물포 스마트시티 Station-J** – React, Spring Boot, PostgreSQL, JPA 
+
 📌 **GPS + AP 기반 지오펜싱 앱 개발** – Spring Boot, Android Studio, React Native, MySQL  
 
 📌 **개인 프로젝트 | MOA : 모두의 아이템** – Spring Boot, React, MySQL  
